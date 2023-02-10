@@ -1,4 +1,4 @@
-# Deprem App
+# Deprem Uygulaması
 - # Son Olan Depremleri Görebilirsiniz anlık güncelleniyor
  
 
