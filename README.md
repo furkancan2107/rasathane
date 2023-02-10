@@ -1,4 +1,4 @@
-# Rf Haber 
+# Deprem App
 - # Son Olan Depremleri Görebilirsiniz anlık güncelleniyor
  
 
